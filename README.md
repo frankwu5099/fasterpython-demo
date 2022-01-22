@@ -1,2 +1,2 @@
 # fasterpython-demo
-A notebook on doing numerical calculation efficiently with python
+A notebook on efficient numerical calculation with python
