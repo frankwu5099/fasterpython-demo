@@ -1,2 +1,2 @@
 # fasterpython-demo
-A Binder demo for different way to accelerate python
+A notebook on doing numerical calculation efficiently with python
